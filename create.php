@@ -6,9 +6,6 @@
     <label>Last Name:</label>
     <input type="text" name="lastName" /> <br>
 
-     <label>Email</label>
-     <input type="email" name="mail" />
-    
     <button type="submit">Submit</button>
 
 </form>

@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: HP
- * Date: 23-Dec-14
- * Time: 7:08 PM
- */
+
 $id = $_GET['id'];
 
 $link = mysqli_connect("localhost",

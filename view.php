@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: HP
- * Date: 23-Dec-14
- * Time: 7:00 PM
- */
 
 $id = $_GET['id'];
 
